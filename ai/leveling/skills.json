@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "name": "AI 应用开发",
+      "icon": "🤖",
+      "skills": [
+        {
+          "id": "langchain",
+          "name": "LangChain",
+          "level": 2,
+          "maxLevel": 5,
+          "progress": 40,
+          "status": "学习中",
+          "resources": [
+            "https://python.langchain.com/docs/get_started/introduction",
+            "https://github.com/langchain-ai/langchain"
+          ],
+          "notes": "已完成基础教程，正在学习 Agent 和 Chain 的高级用法"
+        },
+        {
+          "id": "rag",
+          "name": "RAG 检索增强生成",
+          "level": 1,
+          "maxLevel": 5,
+          "progress": 20,
+          "status": "学习中",
+          "resources": [
+            "https://www.pinecone.io/learn/retrieval-augmented-generation/"
+          ],
+          "notes": "了解基本概念，需要实践向量数据库"
+        },
+        {
+          "id": "agent",
+          "name": "AI Agent 开发",
+          "level": 1,
+          "maxLevel": 5,
+          "progress": 15,
+          "status": "计划中",
+          "resources": [],
+          "notes": "计划学习 AutoGPT 和 LangChain Agent"
+        }
+      ]
+    },
+    {
+      "name": "全栈开发",
+      "icon": "💻",
+      "skills": [
+        {
+          "id": "postgresql",
+          "name": "PostgreSQL",
+          "level": 3,
+          "maxLevel": 5,
+          "progress": 60,
+          "status": "熟练",
+          "resources": [
+            "https://www.postgresql.org/docs/"
+          ],
+          "notes": "熟悉基本操作和查询优化"
+        },
+        {
+          "id": "redis",
+          "name": "Redis",
+          "level": 2,
+          "maxLevel": 5,
+          "progress": 35,
+          "status": "学习中",
+          "resources": [
+            "https://redis.io/docs/"
+          ],
+          "notes": "了解基本数据结构，需要深入学习集群和持久化"
+        },
+        {
+          "id": "docker",
+          "name": "Docker",
+          "level": 2,
+          "maxLevel": 5,
+          "progress": 45,
+          "status": "学习中",
+          "resources": [
+            "https://docs.docker.com/"
+          ],
+          "notes": "会使用基本命令，需要学习 Docker Compose 和多阶段构建"
+        }
+      ]
+    },
+    {
+      "name": "解决方案",
+      "icon": "📊",
+      "skills": [
+        {
+          "id": "solution-doc",
+          "name": "方案文档编写",
+          "level": 3,
+          "maxLevel": 5,
+          "progress": 65,
+          "status": "熟练",
+          "resources": [],
+          "notes": "有丰富的水利项目方案编写经验"
+        },
+        {
+          "id": "presales",
+          "name": "售前技能",
+          "level": 2,
+          "maxLevel": 5,
+          "progress": 30,
+          "status": "学习中",
+          "resources": [],
+          "notes": "需要提升需求分析和客户沟通能力"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-03-02T00:00:00.000Z"
+}
