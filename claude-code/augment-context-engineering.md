@@ -8,12 +8,12 @@
 |--------|------|------|------|------|
 | P0 | scripts | `~/Dev/scripts` | ✅ 已推 | zengtianli/scripts (private), develop 分支 |
 | P0 | oa-project | `~/Dev/oa-project` | ✅ 已推 | zengtianli/oa-project (private), main 分支 |
-| P1 | learn | `~/Learn/` | ⬜ 待推 | 学习笔记回溯 |
+| P1 | learn | `~/Learn/` | ✅ 已推 | zengtianli/learn (private) |
 | P1 | website | `~/Personal/website` | ✅ 已有 | zengtianli/web |
-| P2 | essays | `~/Personal/essays` | ⬜ 待推 | 论文参考 |
-| P2 | resume | `~/Personal/resume` | ⬜ 待推 | 求职材料 |
-| 慎重 | zdwp | `~/Work/zdwp` | ❌ 暂不推 | 含甲方数据，需评估合规性 |
-| 慎重 | reports | `~/Work/reports` | ❌ 暂不推 | 含内部报告，需评估合规性 |
+| P2 | essays | `~/Personal/essays` | ✅ 已推 | zengtianli/essays (private) |
+| P2 | resume | `~/Personal/resume` | ✅ 已推 | zengtianli/resume (private) |
+| P2 | zdwp | `~/Work/zdwp` | ✅ 已推 | zengtianli/zdwp (private), 白名单模式仅文本 167MB |
+| P2 | reports | `~/Work/reports` | ✅ 已推 | zengtianli/reports (private) |
 
 命令模板：
 ```bash
