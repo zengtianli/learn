@@ -15,40 +15,35 @@ Personal learning journal on AI engineering — Claude Code context engineering,
 
 A **6-layer architecture** for building production-grade Claude Code workflows:
 
-| Layer | File | What it covers |
-|-------|------|----------------|
-| Layer 1 | Long-term Context | CLAUDE.md, Memory, rules — the "personality" of your Claude |
-| Layer 2 | Tool Capabilities | Scripts, MCP Servers, built-in tools — what Claude *can do* |
-| Layer 3 | Skills (Workflows) | Slash commands, SOPs — *how* Claude does recurring tasks |
-| Layer 4 | Hooks | Automatic enforcement — the "must do" layer |
-| Layer 5 | Subagents | Parallel workers — scaling with isolation |
-| Layer 6 | Verification Loop | Testing, validation — "done" has a checkable definition |
+| Layer | What it covers |
+|-------|----------------|
+| Layer 1 | Long-term Context — CLAUDE.md, Memory, rules, token budget |
+| Layer 2 | Tool Capabilities — scripts, MCP, naming conventions |
+| Layer 3 | Skills (Workflows) — SOPs, descriptor optimization |
+| Layer 4 | Hooks — deterministic enforcement |
+| Layer 5 | Subagents — isolation > parallelism, permission control |
+| Layer 6 | Verification Loop — L0-L5 layered validation |
 
-Plus 3 real-world case studies:
-- **Writing Quality System** — docx format checking pipeline
-- **Bid Document Full Process** — 12-chapter technical bid, multi-agent parallel writing
-- **VPS Infrastructure** — server setup automation with Claude Code
+Plus supplementary topics: Agent core loop, concept boundaries, prompt caching, high-frequency commands.
+
+**3 real-world case studies** + audit reports with 6-dimension harness scoring.
 
 ### Other Topics
 
 - `ai/` — AI learning path, LangChain, RAG patterns
-- `fullstack/` — Full-stack development notes
 - `writing/` — Technical report writing framework
-- `leveling/` — Skill progression tracking
 
 ## Structure
 
 ```
 Learn/
-├── claude-code/          ← Claude Code 6-layer architecture + case studies
-│   ├── 00-总览与主线地图.md
-│   ├── Layer1~Layer6     ← One file per layer
-│   ├── 实战-*.md          ← Real-world case studies
-│   └── tw93/             ← Extended reference (12 chapters)
-├── ai/                   ← AI/ML learning notes
-├── fullstack/            ← Full-stack development
-├── writing/              ← Technical writing framework
-└── leveling/             ← Skill progression
+├── claude-code/
+│   ├── theory/       ← 6-layer architecture + supplementary topics (11 files)
+│   ├── practice/     ← Real-world case studies & logs (4 files)
+│   ├── strategy/     ← Tool strategies & workflow optimization
+│   └── audit/        ← Health check reports & scoring reference
+├── ai/               ← AI/ML learning notes
+└── writing/          ← Technical writing framework
 ```
 
 ## License

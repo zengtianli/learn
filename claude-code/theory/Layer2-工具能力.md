@@ -304,6 +304,29 @@ python3 script.py --verbose
 
 ---
 
+## 补充：输出模式与 MCP 决策（合并自 tw93 Ch05）
+
+### 双模式输出
+
+工具支持 `--brief`（给 CC）/ `--verbose`（给人）两种模式：
+
+```bash
+python3 script.py --brief    # → 检查通过，0 个问题
+python3 script.py --verbose  # → 完整检查报告
+```
+
+核心脚本目前还没这个功能，值得加上。
+
+### 输出面向 CC 优化
+
+| 坏的返回 | 好的返回 |
+|---------|---------|
+| 500 行 JSON 原始数据 | "发现 3 个禁用词：确保(2处)、我们(1处)" |
+| 完整的 diff 输出 | "5 个文件有变化，其中 2 个是预期内的" |
+| Python traceback | "错误：找不到文件，建议先运行 docx_extract.py" |
+
+---
+
 ## 参考
 
 - `Layer1-长期上下文.md` — Layer 1 定义了"是什么"，Layer 2 建立在其上
