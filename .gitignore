@@ -4,3 +4,16 @@ __pycache__/
 .DS_Store
 .stfolder
 .env
+
+# Baseline (auto-added by /groom)
+*.py[cod]
+*$py.class
+.venv/
+venv/
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.egg-info/
+dist/
+build/
