@@ -1,0 +1,485 @@
+丝绸JOUＲNAL OF SILK                － 设计与产品 －                 － 第 58 卷  第 9 期 －
+唐代织锦团窠纹分析及其创新设计
+张婉玉，陈 宇，周春燕
+( 四川师范大学 服装与设计艺术学院，成都 610100)
+
+摘要:     
+团窠纹是唐代织锦中的一种重要装饰纹样，其现代化发展出现了演变性差、创新性弱、时尚度低等问题。通过分析唐代团窠纹的文化内涵和构成规律，解构团窠纹的外环纹样和中心纹样，利用分裂语法规则将纹样分解成基本的单
+元形，结合形状文法规则推衍重构，获得新的单元形并进行创新纹样开发，实现唐代织锦团窠纹的现代化设计与应用。     
+文章以立狮宝花纹为例进行现代织锦纹样创新设计，提高了织锦的时尚美观度，在保护团窠纹文化基因的基础上，更加契合当代审美需要。     研究旨在保护、创新唐代团窠纹，并为其他纹样的现代化发展提供借鉴。
+关键词: 团窠纹; 唐代织锦; 织锦纹样设计; 分裂语法; 形状文法
+中图分类号: TS941． 11   文献标志码: B   文章编号: 1001 － 7003( 2021) 09 － 0126 － 07
+引用页码: 091302    DOI: 10． 3969 / j． issn． 1001-7003． 2021． 09． 019
+Analysis of Tuanke pattern in Tang dynasty brocade and its innovative design
+ZHANG Wanyu，CHEN Yu，ZHOU Chunyan
+( Institute of Fashion and Design Art，Sichuan Normal University，Chengdu 610100，China)
+Abstract: Tuanke pattern as an important decorative pattern in Tang Dynastybrocade is poor in 
+evolution，weak in innovation and inferior in fashion in the process of modern development． By 
+analyzing the cultural connotation and composition rules of Tuanke pattern in Tang dynasty，this 
+study deconstructs the outer ring pattern and central pattern of Tuanke pattern， decomposes the 
+pattern into basic unit shapes according to split grammar rules． Then，through the deduction and 
+reconstruction based on rules of shape grammar，new unit shapes are obtained for the development of 
+innovative patterns，thus realizing the modern design and application of the Tang dynasty brocade 
+pattern． Taking the Lishibao pattern as an example，this study conducts an innovative design of 
+modern brocade patterns，which improves the fashionable aesthetics of the brocade，and better 
+satisfies contemporary aesthetic needs on the basis of protecting the cultural genes of Tuanke 
+pattern． The study aims to protect and innovate Tuanke pattern in the Tang dynasty，and provide a 
+reference for the modern development of other patterns．
+Key words: circular pattern; Tang dynasty’ s brocade; brocade pattern design; split grammar; shape 
+grammar
+
+
+唐代团窠纹是流行于唐代建筑、佛幡、壁画、织锦上的一种典型装饰纹样［1］，不仅是唐代政治、经济、文化发展的重要映射者，也是丝绸之路贸易发展的历史见证者与物质承担者。研究唐代团窠纹的造型特征和审美规律，实
+现团窠纹的现代化创新设计，对于传承发展唐代优秀文化、丰富扩展现代服饰纹样风格，具有重要的现实意义和实践意义。
+唐代团窠纹主要是西部外族的汉地联珠纹演变而来［2］，形式受波斯萨珊王朝( 公元 226—640 年) 及当时出口贸易适销样式的影响，盛行于北朝至唐代中期。  
+当下，针对唐代团窠纹的研究主要结合考古实物中的影像资料与史书文献［3］，集中在起源与流变［4］、形式与特征［5］、文化交融［6］、现代创新设计［7］等方面。  
+现有的团窠纹现代化应用研究，主要集中于针对具体纹样的个案研究，缺乏普遍适用的纹样设计方法。
+本文在前人的研究基础上，利用分裂语法和形状文法对唐代团窠纹样形体进行解构分析和再设计，从历史文化中汲取营养，将唐代团窠纹的造型特征与现代设计形式相融合，不仅有利于强化现代产品的文化内涵和时代根基，更有
+利于传统文化的传承和发扬。
+
+1 唐代织锦团窠纹特征提取
+1． 1 唐代织锦团窠纹典型特征
+唐代团窠纹是唐代常用于丝绸上的一种重要纹样，将单位纹样联结成为圆形或近似圆形的整体形状，按照一定的格式骨架进行散点排列，内方外圆、主次分明、章彩奇丽、特色鲜明，体现了古代“天圆地方”的哲学思想。
+唐代经济繁荣昌盛，文化开放、兼容并包、不断创新，形成了丰富迷人的装饰文化，成为民族文化的重要代表。  在丝绸
+  之路不断发展的过程中，团窠纹样风格收到波斯纹饰风格的
+
+收稿日期: 2021 － 02 － 15; 修回日期: 2021 － 08 － 24
+基金项目: 教育部人文社科青年基金项目( 18YJC760111)
+作者简介: 张婉玉( 1982  ) ，女，教授，博士，主要从事产品、服装设计等的教学与研究。
+126
+影响，以联珠、飞禽走兽、花卉植物等元素为主题，通过不同组合方式进行连续排列，层次众多、花团锦簇、形象饱满、雍容华贵、富姿福态，是在丝绸之路文化大融合背景下形成的极具包容性的纹样代表，富含时代性。   
+ 现出土的唐代敦煌团窠丝绸
+
+
+制品，共有连珠团窠、宝花团窠和动物团窠三种不同类型。  唐代织锦团窠纹主要由外环纹样要素和中心纹样要素两部分组成，如图 1 所示。
+
+
+
+
+
+
+
+图 1 唐代织锦团窠纹要素
+Fig． 1 Elements of Tuanke pattern in Tang dynasty brocade
+唐代织锦团窠纹分析及其创新设计
+外环纹样称为窠环，代表着具有圆形纹样轨迹和特定图案范围的环形纹样，以联珠环、花草环、文字环等为主要样式，由一个或多个元素按照一定规律进行环绕排列。   
+其圆形构造与环内的中心纹样相互呼应，呈现出饱满、圆润的祥和之态，从侧面体现了唐代的开放与自信。   
+对称的中心纹样是唐代团窠纹独特的表现形式，以单独或对称的动物或植物为表现题材，整体构图平衡而稳定，表现了人们美满生活的祝愿，如对龙象征着权利、地位，对狮象征着平安、吉祥，对牛象征着勤劳、勇敢，对鹿象征
+着仕途顺遂、爱情美好。   唐代织锦团窠纹的部分特征如表  1  所示。
+表 1 唐代织锦团窠纹特征( 部分)
+Tab． 1 Features of Tuankepattern in Tang dynasty brocade( partial)
+构图要素    形式       图例       特征纹样    构图要素    形式       图例       特征纹样
+
+
+联珠环
+
+
+( a) 联珠翼马纹
+凤
+( f) 凤唐草丸纹
+
+
+单层
+
+
+
+外环纹样
+花草环
+
+
+
+
+文字环
+
+
+( b) 对鹿纹
+
+
+
+
+( c) 对牛纹
+狮
+
+动物
+
+中心纹样     牛
+
+
+( g) 联珠对狮纹
+
+
+
+
+( h) 联珠对牛纹
+
+
+双层 联珠环
+双层
+
+联珠环与卷草环
+
+
+( d) 联珠龙纹
+
+
+
+
+( e) 狩猎纹
+羊
+
+( i) 对羊纹
+
+植物
+( j) 团花纹
+
+1． 2 唐代织锦团窠纹形态分析
+形态分析法是通过分析组成要素的形态，运用排列组合构造设计方案的创新方法［8］。  该方法将研究的对象按照系统工程的方法分解为子系统，形成的若干彼此独立的要素，称为目标标记。  
+通过探寻每个目标标记的多个可能状态，作为描述对象的目标特征。  设系统有 m 个目标标记，每个标记具有其自身的目标特征，则从每个目标标记中选择一种目标特征，可组合形成系统的一种状态。  
+因此系统可能具备的最多状态数为:
+N = n1 n2 n3 …nm         ( 1)式中: N 为系统状态数; n 为目标特征; m 为目标标记。
+唐代织锦团窠纹的特征可分解为构图形状、外环纹样主题、外环纹样层数、中心纹样主题、中心纹样构图、纹样比例，将此 7 项特征作为目标标记。 针对每个目标标记，探索尽可能多的目标特征，如表 2 所示。
+根据式( 1) ，团窠纹可能存在 972 种基本的形态组合形式，每一种组合形式中还存在多种主题纹样的变化。
+127
+
+Analysis of Tuanke pattern in Tang dynasty brocade and its innovative design
+
+表 2 唐代织锦团窠纹形态学矩阵
+Tab． 2 The morphological matrix of Tuanke pattern in Tang dynasty brocade
+目标标记           目标特征
+构图形状    正圆形     椭圆形     圆角矩形外环纹样主题   联珠纹     花草纹      文字纹外环纹样构图   重复式     组合式       无
+外环纹样层数    单层     双层       无
+中心纹样主题    动物      植物       人物 中心纹样构图    独立      对称      中心旋转
+纹样比例    等比例   中心纹样为主  外环纹样为主
+1． 3 分裂语法理念下的团窠纹解构
+分裂语法是一种针对具有简单边界的、非终结形状的特定语法，被广泛运用于城市结构的程序化设计中［9］，它根据特定的语法规则将图形结构分解为个体，详细展现其组成形式，实现对复杂图案的解构。
+唐代织锦团窠纹体系较为庞大，层次丰富，花样繁多。      
+将分裂语法引入团窠纹设计之中，对团窠纹结构进行细分、解构，可以将团窠纹分解为层次化的结构表达形式，形成多层次的设计要素，构建团窠纹文化基因数据库，便于纹样元素的设计与重用，为团窠纹的现代化推演提供基础
+。因此，先采用分裂语法
+
+的理念分解团窠纹，并结合形状文法来实现纹样元素推理衍生。分裂语法适用的分裂规则有分解规则与转换规则，设 B
+为团窠纹结构单元的集合，且 b 包含与 a 相同的纹样结构单元，则有以下两种情况:
+1) 分解规则 a→b。 设 a 是 B 的子集，而 b 非限定为 a 的子集，执行分解规则，将 a 和 b 相同的纹样结构单元进行分解，直到不可再分解为止。
+2) 转换规则 a→b。 设 a 是 B 的子集，且 b∈a，执行转换规则，将 a 与 b 相同的纹样结构单元以另一种纹样结构单元进行替换。 转换规则唯一的限制是 b 中的纹样结构单元必须包含在 a 
+的形状结构单元中。
+执行分裂规则后，纹样仅包含不可再分的最小结构单元，即元素b∈B，则得到的一组形状集合B'CB 为该团窠纹的最终结构。
+图 2 为分裂语法构建唐代织锦团窠纹结构的示例，对团窠纹( a) 初始形状执行分解规则，得到中心纹样 M，外环纹样的最大纹样结构单元 K。  对纹样结构单元 K 
+继续执行转换规则，直到所有纹样结构单元都细分为最小元素，且不可再分为止，得到最终结构( c) 。
+
+
+
+
+
+
+
+
+图 2 团窠纹结构的分裂示意
+Fig． 2 The structure splitting diagram of Tuanke pattern
+2 唐代织锦团窠纹元素推理
+针对唐代织锦团窠纹元素的创新设计，本文采用形状文法的运算规则进行纹样元素推演。
+2． 1 基于形状文法的团窠纹推演
+形状文法是一种通过替换规则推理形状的生成系统，在执行相应的运算规则后，既保持了原有的形态基因，又产生了新的形态［10］。  形状文法的定义［11］可以表示为:
+SG = ( S，L，Ｒ，I)      ( 2)
+式中: S 为形状的有限集合，S = { s ，s ，…，s } ，S* 为 S 经过推
+
+理规则衍生的形状集; L 为标记的有限集合，L = { l₁ ，l₂ ，…，ln }且 S∩L = Ø; Ｒ 为推理规则有限集合，Ｒ = { r₁ ，r₂ ，…，rp } ，推理规则的形式为 λ( 
+S，L) →η( S，L) ，λ( S，L) 为形状推理的左标记形状，η( S，L) 为形状推理的右标记形状，λc( S∪L) ，ηc ( S∪L) ，且 η 可为空集; I 为初始形状，I = { 
+i₁ ，i₂ ，…，iu } 且 Ic ( S∪L) 。
+形状文法推理规则主要有移动、置换、增加、删除、缩放、复制、镜像、旋转、错切等，根据团窠纹形态学矩阵中的目标标记，将推理规则的属性分为继承性、修改性、衍生性，如图 3 所示。
+128
+
+
+
+
+
+
+
+
+
+
+
+图 3 推演规则示意
+Fig． 3 Schematic diagram of deduction rules
+
+
+设纹样中心坐标( x，y) ，参考图案的中心坐标( 0，0) 构建团窠纹推理规则，如表 3 所示。
+2． 2 团窠纹推理模型
+基于分裂语法与形状文法的团窠纹推理模型分为分裂语
+唐代织锦团窠纹分析及其创新设计
+变化，需要在推演引擎中设定纹样演变的约束条件，控制形态曲线的变形范围。  如设定变形范围为 50% 时，约束条件为:
+⎧( xi － x₁ ) / x₁ | ≤ 50%
+⎪( yi － y₁ ) / y₁ | ≤ 50%
+
+法推演阶段、形状文法推演阶段和方案选择优化阶段三部分，如图 4 所示。
+分裂语法推演阶段: 根据唐代文化大发展大融合的历史背景与团窠纹的文化内涵，收集唐代织锦团窠纹的不同纹样
+⎪
+⎨xmin ≤ xi ≤ xmax
+⎪
+⎪ymin ≤ yi ≤ ymax
+⎩
+t₁ ≤ T
+( 3)
+
+种类与组织形式，归纳其典型特征，按照分裂规则解构初始纹样，形成纹样结构单元，作为下一阶段推演的纹样结构基础。
+形状文法推演阶段: 将形状要素输入形状文法推演引擎，选择变化规则进行纹样形态演化。 为了使衍生的纹样既保持原始纹样的文化基因，又能够产生符合现代审美需要的形态
+式中: ( xi ，yi ) 为第 ti 次推理的形状坐标; ( xmₐₓ ，ymₐₓ ) ( xmin ，
+ymin ) 为形状演化的坐标边界; T 为推演次数约束。
+方案选择优化阶段: 由设计师对形状文法推演引擎生成的方案进行筛选，匹配纹样结构，确定最终纹样方案，进一步细化并进行相应的设计应用。
+表 3 形状文法推理规则
+Tab． 3 Inference rules of the shape grammar
+规则属性   符号   含义            规则描述                    适用目标标记
+r1    平移   X、Y 方向平移距离                 中心纹样主题
+r2    复制   X、Y 方向移动、复制                外环纹样层数、中心纹样构图
+
+r        绕中心按一定的角度旋转，选择旋转方向( 1 为顺
+³      时针，0 为逆时针)
+中心纹样主题、中心纹样构图、外环纹样构图
+
+继承性
+r4    缩放   X、Y 方向缩放比例                 中心纹样主题、外环纹样构图、纹样比例
+
+r        按对称轴 u、v 复制，选择是否保留初始形状( 1 为保
+⁵      留，0 为不保留)
+中心纹样主题
+r6    错切   X、Y 方向错切量                  构图形状
+
+
+
+修改性
+r    置换   X、Y 方向替换初始形状               构图形状、外环纹样主题、外环纹样构图、中心纹样
+r    增加   X、Y 方向增加形状                 外环纹样构图、外环纹样层数、中心纹样主题、中心
+r    删除   X、Y 方向删除初始形状               外环纹样构图、外环纹样层数、中心纹样主题、中心
+
+
+衍生性
+r10   圆周阵列  绕圆心按照一定间隔角度复制            中心纹样构图、外环纹样构图
+r11   线性阵列  X、Y 方向按照一定的间隔复制           中心纹样构图
+r12   螺旋阵列  绕圆心按照一定间隔角度缩放复制         中心纹样构图、外环纹样构图
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+图 4 团窠纹推理模型
+Fig． 4 Inferencemodel of Tuanke pattern
+129
+
+Analysis of Tuanke pattern in Tang dynasty brocade and its innovative design
+3 唐代织锦团窠纹创新应用案例
+本文以立狮宝花纹为例进行纹样创新，使其在保留纹样
+文化内涵的同时，兼备现代审美特征。
+3． 1 纹样结构分析
+立狮宝花纹呈正圆形，由中心纹样立狮与外环单层花卉纹样组成，是斜纹纬锦与狮子纹样传入中国后融合中原审美趣味的文化体现，是团窠纹中的重要代表。    
+该纹样以大窠牡丹与石榴花卉为环，宝花团窠环面积占比较大，花卉纹样层次丰富且图案极为华丽。    立狮生动立于环之中央，头鬃微卷、双耳直立、狮尾翘起、狮身骨劲肉丰、丰满健硕，线条明确简练，充满生机
+
+与力量，更具写实意味。 采用辽式纬锦的组织结构，叶中有花、花中有叶，花环团窠与动物纹样交相结合，虚实交互、美轮美奂。
+本文以立狮宝花纹和团窠对鹿纹样为例进行团窠纹结构分析。  选择立狮宝花纹作为初始形状并进行色彩灰度处理，然后运用分裂语法进行结构分析，如图 5( a) 所示。
+通过执行分裂语法规则，该纹样首先分解为中心立狮纹样 M与外环团窠纹K，然后将外环重复纹样 K 分解为纹样结构S 和纹样 Q，再分别对其进行深入，将 Q 
+细化为W，直至纹样单元无法分解为止，获得纹样结构。 运用 VBA 语言，在矢量图形软件 CoreldrawX5中进行二次开发，构建纹样结构分析引擎，如图6 所示。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+图 6 团窠纹结构分析界面
+图 5 团窠纹结构分析
+Fig． 5 Analysis of the structure of Tuanke pattern
+最终所形成的立狮宝花形态纹样元素成为纹样设计结构库的储备元素，如表 4 所示。
+表 4 立狮宝花纹元素
+Tab． 4 Elements of Lishibao pattern
+初始图形        符号      纹样元素
+A 立狮
+B 团花
+C 团花
+D 团花
+E 团花
+
+Fig． 6 Analysis interface of the structure of Tuanke pattern
+3． 2 立狮宝花纹形态推演
+针对立狮宝花纹的中心纹样元素与外环纹样元素，进行立狮宝花纹的层次化分析，将重复的外环团花分解而出，解析得到图 7 中的初始图形 1 和初始图形 2; 然后分别对 2 
+个初始图形进行深入解构，逐次细化，最终形成不可分解的、最小化的、完整的纹样元素。
+130
+F 团花
+G 团花
+H 团花
+I 团花
+J 团花
+K 团花
+L 团花
+
+唐代织锦团窠纹分析及其创新设计
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3． 3 方案细化与设计
+图 7 立狮宝花纹元素分析
+Fig． 7 Analysis of Lishibao pattern elements
+修改性规则、衍生性规则等十二种形状文法推演规则，推演
+
+根据形状文法推演方法，选定 A 立狮、C 团花、D 团花、I团花、K 团花五个原始纹样，运用形状文法中的继承性规则、
+生成得出初步的纹样结构元素，形成立狮宝花纹基础元素库，为纹样的深入开放提供组织基础，如表 5 所示。
+表 5 立狮宝花纹元素形状文法推演规则( 部分)
+Tab．5 Inference rules of the shape grammar for some elements of Lishibao pattern
+
+原始纹样
+
+平移  复制
+继承性规则旋转  缩放
+
+镜像  错切
+修改性规则
+置换  增加
+     衍生性规则 删除   圆周阵列 线性阵列 螺旋阵列
+
+
+
+
+
+
+
+
+
+通过分裂语法解构与形状文法推演引擎运算，得到多个纹样设计方案，然后设计人员对生成的方案进行筛选。  选定纹样方案，通过 CoreldrawX5 
+等软件进一步细化并以织锦为载体进行设计应用，最终设计效果如图 8 所示。
+丝巾是现代人们的重要生活物品，给予人们温暖的同时还兼具装饰作用，深受各类时尚人士、实用人士的喜欢，是传播团窠纹样的优秀载体。       
+因此，将创新设计的团窠纹样运用于丝巾中，不仅可以提高丝巾的时尚程度，还能够扩大团窠纹样的使用率与影响力，促进传统团窠纹样的现代化活态传承。本文将最终确定的纹样方案应用到现代丝织品中，从花
+纹的美观性、实用性、文化性等方面出发，实现唐代团窠纹的
+
+
+
+
+
+
+
+
+
+
+图 8 CoreldrawX5 中二次开发的立狮宝花元素应用 Fig． 8 Application of Lishibao pattern elements secondarily 
+developed by CoreldrawX5
+131
+
+Analysis of Tuanke pattern in Tang dynasty brocade and its innovative design
+传承与创新。 
+整体设计遵循团窠纹的构图规范，结合现代设计的形式美法则，基于大调和、小对比的配色思路，以邻近色、类似色、中性色、对比色来丰富图案层级，使丝巾设计符合对比与统一、节奏与韵律、对称与均衡的现代美学原则，如
+图9 所示。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+图 9 立狮宝花纹的设计应用
+Fig． 9 Design and application of Lishibao pattern
+团窠纹样所代表的社会文化与艺术审美，能够激起消费
+者对于中华民族优秀传统文化的自豪感、文化认同、身份认同，且因其美好的寓意，成为祥瑞富贵的象征，具有较高的受众接受程度。      
+将团窠纹样的形态元素与现代设计艺术形式结合的应用实践，有利于在实现保留团窠纹样文化基因的同时，提升现代产品纹样设计的文化底蕴和审美价值。
+4 结 语
+唐代织锦团窠纹是丝绸之路下中西文化交流融合的集中体现，对中国装饰纹样产生了重要影响。 
+针对唐代织锦团窠纹的传承创新与发展需求，本文提出一种基于分裂语法与形状文法的纹样创新设计方法，通过解构团窠纹结构、建立约束规则来推演纹样形状，并运用立狮宝花纹进行现代丝织品设计，探索团窠纹的现代化设计
+方法。 该方法在一定程度上规范了纹样设计流程，提高了纹样设计效率，为实现传统纹样创新设计与应用提供了思路。
+在现代审美背景下传承与创新传统团窠纹，需要尊重历史并保留纹样基特征。      
+本文主要针对团窠纹进行结构分析与设计方法研究，后续研究将扩大研究范围，针对更多传统纹样，研究其在不同结构下的纹样创新设计，探索在保留传统纹样文化基因的基础之上满足纹样现代化需要的纹样设计方法。
+
+
+
+
+PDF 下载
+
+参考文献:
+［1］赵丰，王乐． 敦煌的胡锦与番锦［J］． 敦煌研究，2009( 4) : 38-46，
+123-124．
+ZHAO Feng，WANG Le． Central asian textiles found in Dunhuang
+［J］． Dunhuang Ｒesearch，2009( 4) : 38-46，123-124．
+［2］常乐，刘瑞璞，贾荣林． 联珠纹汉藏文化同形同构的特质［J］． 丝绸，2019，56( 4) : 72-78．
+CHANG Le，LIU Ｒuipu，JIA Ｒonglin． Homomorphism and isomorphism trait of Han and Tibet’ s culture 
+about the peal-linked pattern［J］． Jounral of Silk，2019，56( 4) : 72-78．
+［3］贾荣林． 唐代服饰图形“ 陵阳公样”中的民族图式交融［J］． 艺术设计研究，2017( 3) : 23-26．
+JIA Ｒonglin． The blending of national pattern of " Ling Yang Gong Yang in Tang " dynasty ’ s 
+costume pattern ［J］． Art ＆ Design Ｒesearch，2017( 3) : 23-26．
+［4］孙弋，张毅． 丝绸之路通商前后禽鸟纹样的起源与形式流变［J］．丝绸，2020，57( 9) : 84-89．
+SUN Yi，ZHANG Yi． Origin and evolution of bird pattern before and after the Silk Ｒoad trade［J］． 
+Jounral of Silk，2020，57( 9) : 84-89．
+［5］杨建军，崔岩． 唐代佛幡图案与工艺研究［J］． 敦煌研究，2014 ( 2) : 1-15．
+YANG Jianjun，CUI Yan． A study on the patterns and techniques of the Tang dynasty buddhist 
+banners［J］． Dunhuang Ｒesearch，2014( 2) : 1-15．
+［6］郑炳林，朱建军． 海外藏对鹿纹挂锦所见丝绸之路多元文化交融
+［J］． 中央民族大学学报( 哲学社会科学版) ，2020，47( 5) : 21-26． ZHENG Binglin，ZHU Jianjun． The multicultural 
+integration of Silk Ｒoad seen by Overseas Tibetan Deer pattern embroidery［J］． Journal of Minzu 
+University of China( Philosophy and Social Sciences Edition) ，2020，47( 5) : 21-26．
+［7］彭国华，刘凯雄． 唐代织锦中含绶鸟纹的设计因子提取及应用研究［J］． 丝绸，2020，57( 10) : 111-118．
+PENG Guohua，LIU Kaixiong． Ｒesearch on design factor extraction and application of brocade bird 
+pattern with ribbon holding in mouth in Tang dynasty［J］． Jounral of Silk，2020，57( 10) : 111-118．
+［8］丛海宸，成思源，杨雪荣，等． 基于形态分析法的逆向参数化建模［J］． 制造业自动化，2016，38( 5) : 115-119．
+CONG Haichen，CHENG Siyuan，YANG Xuerong，et al． Ｒeverse parametric modeling based on the application 
+of morphological analysis
+［J］． Manufacturing Automation，2016，38( 5) : 115-119．
+［9］ＲENE Z． Procedural architecture using deformation-aware split grammars［J］． The Visual 
+Computer，2014，30( 9) : 1009-1019．
+［10］虞杰，吕健，潘伟杰． 基于分层形状文法的蜡染花朵纹创新设计研究［J］． 包装工程，2020，41( 10) : 255-261．
+YU Jie，LÜ Jian，PAN Weijie． Innovative design of batik flower patterns based on layered shape 
+grammars［J］． Packaging Engineering， 2020，41( 10) : 255-261．
+［11］STINY G． Introduction to shape and shape grammars［J］． Environment and Planning B: Planning and 
+Design，1980，7( 3) : 343-351．
+132

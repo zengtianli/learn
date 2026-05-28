@@ -1,0 +1,9 @@
+name: learn
+domain: content
+function: 学习笔记 / 学习路径 / 研习产出
+public_api: 纯 .md 内容，可被 personal-kb investment / kb-aggregator 索引消费
+key_scripts: []
+depends_on: []
+tier: CONTENT
+owner: tianli
+docs: ./README.md

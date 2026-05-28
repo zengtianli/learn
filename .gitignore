@@ -1,0 +1,259 @@
+# ============================================================
+# .gitignore · water-doc-project 模板
+# ============================================================
+# 原则:
+#   水利/文档型项目 = docx + xlsx + pdf + 现场照 png 重灾区。
+#   单个 docx 实施方案章节 ~50 MB(嵌 wmf/png/emf 媒体),
+#   一个章节多个 bak-时间戳 备份 × N 章节 = .git 轻松爆 1 GB。
+#   住宅线 + 代理节点 + SSH/443 → push 超 100 MB 单 commit 必 timeout。
+#   预防 > 治疗。
+#
+# 适用项目:
+#   - 浙江省水利水电勘测设计院县级业务: 生态流量 / 灌区 / 供水 /
+#     河长制 / 水资源调查评价 / 防洪 / 排涝 / 河湖岸线
+#   - 任何"文档为主交付,代码只是产 docx/xlsx 工具链"的项目
+#   - 嵌图嵌表的 Word/Excel 报告类项目
+#
+# 来源: eco-flow 2026-05-28 重 init 教训
+#   ~/Work/projects/eco-flow 因未 ignore 实施方案 docx + 现场踏勘 png +
+#   xlsx 计算表 + bak-时间戳备份, .git 滚到 1+ GB, push 30 min timeout 反复。
+#   最终走 fresh-init 丢史路线。本模板=痛点全集合的防御性默认。
+#
+# 用法:
+#   cp ~/Dev/tools/configs/templates/.gitignore.water-doc-project \
+#      <new-project>/.gitignore
+#   # 然后按项目特性调整白名单(末尾 ! 段)
+# ============================================================
+
+
+# --- Office 二进制(docx/doc/xlsx/xls/pptx/ppt/pdf) -----------
+# 水利项目最大 bloat 源: 实施方案 docx + 计算表 xlsx + 参考资料 pdf
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.pptx
+*.ppt
+*.pdf
+*.rtf
+*.odt
+*.ods
+*.odp
+
+
+# --- 图片 ----------------------------------------------------
+# 现场踏勘 png 单张常 25-30 MB; 报告插图嵌 wmf/emf 也吃体积
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.wmf
+*.emf
+*.ico
+*.webp
+*.heic
+*.psd
+*.ai
+
+
+# --- 压缩包 --------------------------------------------------
+*.zip
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+*.tar
+*.tar.gz
+*.tgz
+*.tar.bz2
+
+
+# --- GIS 数据 ------------------------------------------------
+# Esri shapefile 一族 + GeoDatabase + QGIS 工程
+*.gdb/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix
+*.qmd
+*.qgz
+*.qgs
+*.qgs~
+*.gpkg
+*.tab
+*.mif
+*.mid
+*.mxd
+*.lyr
+*.lyrx
+
+
+# --- SQLite / DB --------------------------------------------
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+
+
+# --- Office 临时锁文件 --------------------------------------
+# Word/Excel 打开时生成的隐藏锁; 误 commit 会污染历史
+~$*
+.~lock.*
+*.lock
+*.tmp.docx
+*.tmp.xlsx
+
+
+# --- 系统 / IDE / 编辑器 ------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+
+
+# --- 备份文件(时间戳 / 原文件 / 临时) -----------------------
+# eco-flow 痛点: docx 改前自动 cp 为 .bak-YYYYMMDD-HHMMSS,
+# 一天 N 次改章节 → 一个章节积 5-10 个 bak 备份各 50 MB
+*.bak
+*.bak-*
+*-bak
+*-bak-*
+*.backup
+*.orig
+*.old
+*.tmp
+*.temp
+*.swp
+*~
+
+
+# --- 大 HTML 自包含产物 -------------------------------------
+# /html-fig / /html 生成的自包含 HTML 内嵌 base64 图,单文件常 5-20 MB
+**/v0.*-mvp.html
+**/v0.*-final.html
+**/*-self-contained.html
+**/preview-*.html
+**/汇报-*.html
+
+
+# --- 中间产物目录 -------------------------------------------
+# 临时切片 / agent 工作区 / spike 实验 / 照片堆
+**/_tmp/
+**/_scratch/
+**/panan-slices/
+**/chapters-docx/
+**/chapters-md-tmp/
+**/figures/photos/
+**/figures/raw/
+**/bin/spikes/
+**/scripts/spikes/
+**/spike-*/
+**/.agent-workspace/
+
+
+# --- 归档 / 工作区 ------------------------------------------
+_archive/
+_archives/
+archives/
+workspace/
+.workspace/
+
+
+# --- 数据文件(默认全 ignore, 按需白名单放回) ----------------
+# 水利项目 data/ 多是原始 xlsx/db, 不该进 git
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.db
+data/*.sqlite
+data/raw/
+data/原始/
+data/原始xlsx/
+
+
+# --- Claude Code 本地 ---------------------------------------
+.claude/settings.local.json
+.claude/worktrees/
+.claude/*.lock
+.claude/session_cache.json
+.claude/*.session_cache.json
+.claude/sessions/
+.augmentignore
+
+
+# --- Windows 软件临时 / 浏览器快捷方式 -----------------------
+*.url
+*.lnk
+
+
+# --- Node / 前端(防御性,水利项目偶尔有 quarto/前端工具) ----
+node_modules/
+.next/
+.nuxt/
+dist/
+build/
+
+
+# --- LaTeX / Quarto 中间产物 --------------------------------
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+_book/
+_site/
+.quarto/
+
+
+# ============================================================
+# 白名单(! 规则必须放在末尾才能生效)
+# ============================================================
+# 模板 docx/xlsx 是项目核心交付参考,需要进 repo;
+# 项目方按需取消注释或补充自己的白名单。
+#
+# !模板/*.docx
+# !模板/*.xlsx
+# !deliverables/_final/*.docx
+# !docs/figures/diagram-*.svg
+# !README.png
+
+# --- F9 ad-hoc: 视频/音频/syncthing 元数据 (learn repo) ---
+*.mp4
+*.mp3
+*.mov
+*.m4a
+*.wav
+.stfolder/
