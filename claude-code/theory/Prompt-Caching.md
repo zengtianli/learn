@@ -1,4 +1,10 @@
-# Ch08: Prompt Caching 架构
+---
+public: true
+title: "Prompt Caching 架构：为什么 CLAUDE.md 越稳定越省钱"
+tags: [AI, LLM, Claude]
+---
+
+# Prompt Caching 架构
 
 > 理解 Prompt Caching 的工作方式，才能明白为什么 CLAUDE.md 越稳定越好。
 
