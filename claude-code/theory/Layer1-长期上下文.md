@@ -1,3 +1,12 @@
+---
+public: true
+title: "Claude Code 架构 · Layer 1:长期上下文层(CLAUDE.md / Memory)"
+slug: "claude-code-long-context"
+date: "2026-06-17"
+excerpt: "长期上下文=每次对话自动加载的背景:CLAUDE.md 全局/项目规则 + Memory 跨会话记忆。它是 Claude Code 的地基,写好了 Agent 在任何会话都知道技术栈、规矩、偏好。"
+tags: [AI, LLM, Claude, Agent, 上下文工程]
+---
+
 # Layer 1：长期上下文层
 
 > **在六层架构中的位置**：最底层，告诉 Claude "你是谁、在哪个项目、有什么规矩"。每次对话自动加载，是 CC 的"性格设定"和"工作手册"。
