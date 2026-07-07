@@ -3,6 +3,7 @@ public: true
 slug: zhedong-rainfall-variability
 title: "浙东引水工程受水区降雨趋势与多尺度变率分析"
 tags: [水利工程]
+image: "/images/blog/zhedong-rainfall-variability/hero.jpg"
 ---
 
 ### Rainfall Trends and Multi-scale Variability in the Water Receiving Area of the Eastern Zhejiang Water Diversion Project

@@ -2,6 +2,8 @@
 public: true
 title: "Prompt Caching 架构：为什么 CLAUDE.md 越稳定越省钱"
 tags: [AI, LLM, Claude]
+image: "/images/blog/prompt-caching/hero.jpg"
+slug: prompt-caching
 ---
 
 # Prompt Caching 架构
