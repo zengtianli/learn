@@ -1,5 +1,13 @@
 # Layer 6：验证闭环实战教学
 
+> ⚠ **路径时效（2026-08-13 补注）**：本篇记录的是 2026-03 的工作流。文中
+> `~/Dev/scripts/scripts/document/*` 那批脚本已在 2026-05-18 的仓库重构中整合进
+> `~/Dev/tools/doctools/`（现行入口 `docx_cli.py`、`bid_gate.py`，或 skill `/docx`），
+> **逐个脚本名不再对应实体**（实测 `table_name_check.py` / `chart_insert.py` /
+> `review_summary.py` 等全盘已无，`bid_standardize.py` 只剩 `~/Dev/_archive/scripts-archive/`
+> 里的归档）。这些路径按**当时的事实**原样保留 —— 改写成一个看着存在的新路径，
+> 只会把死链伪装成活链。
+
 > 这篇教学专门展开六层框架中的第六层——验证闭环。
 > 目标：把你手头已有的零散验证工具，组织成一套分层验证体系，让"做完"有可检验的定义。
 
@@ -66,7 +74,7 @@
 
 ## 三、我们已有的验证工具
 
-你的 `~/Dev/scripts/scripts/document/` 目录下，已经有一批可以直接用于验证的工具。下面逐个盘点。
+你的 `~/Dev/tools/doctools/scripts/document/` 目录下，已经有一批可以直接用于验证的工具。下面逐个盘点。
 
 ### L2 层：结构检查
 
@@ -302,7 +310,7 @@ set -euo pipefail
 
 MD_DIR="${1:?用法: verify_bid.sh <md_dir> <scoring.json>}"
 SCORING="${2:?用法: verify_bid.sh <md_dir> <scoring.json>}"
-SCRIPT_DIR="$HOME/Dev/scripts/scripts/document"
+SCRIPT_DIR="$HOME/Dev/tools/doctools/scripts/document"
 PYTHON="/Users/tianli/miniforge3/bin/python3"
 
 PASS=0
@@ -553,7 +561,7 @@ python3 docx_format_check.py compare template.docx output.docx
 
 ## 八、TODO
 
-- [ ] 写一个 `verify_bid.sh` 标书验证流水线（基于第五节的设计，放到 `~/Dev/scripts/scripts/document/`）
+- [ ] 写一个 `verify_bid.sh` 标书验证流水线（基于第五节的设计，放到 `~/Dev/tools/doctools/scripts/document/`）
 - [ ] 给 report-writing Skill 加验收清单（在 SKILL.md 末尾加一节"验收标准"）
 - [ ] 建立"做完"的标准定义（在 CLAUDE.md 中添加规则：所有交付物必须附带验收清单）
 

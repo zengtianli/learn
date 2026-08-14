@@ -1,5 +1,13 @@
 # Layer 5：Subagents 实战教学
 
+> ⚠ **路径时效（2026-08-13 补注）**：本篇记录的是 2026-03 的工作流。文中
+> `~/Dev/scripts/scripts/document/*` 那批脚本已在 2026-05-18 的仓库重构中整合进
+> `~/Dev/tools/doctools/`（现行入口 `docx_cli.py`、`bid_gate.py`，或 skill `/docx`），
+> **逐个脚本名不再对应实体**（实测 `table_name_check.py` / `chart_insert.py` /
+> `review_summary.py` 等全盘已无，`bid_standardize.py` 只剩 `~/Dev/_archive/scripts-archive/`
+> 里的归档）。这些路径按**当时的事实**原样保留 —— 改写成一个看着存在的新路径，
+> 只会把死链伪装成活链。
+
 > **前置阅读**：`Layer1-长期上下文.md` / `Layer2-工具能力.md` / `Layer3-工作流Skills.md`（六层架构前三层）、`实战-钱塘江标书全流程.md`（12 章标书的完整实战故事）
 >
 > **关联 Skill**：`report-writing`（subagent 写作模板 + 4 维度检查框架）

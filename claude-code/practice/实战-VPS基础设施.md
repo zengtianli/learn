@@ -1,5 +1,13 @@
 # 主线 C：VPS 基础设施搭建 —— 从一台裸机到 24/7 AI 工作站
 
+> ⚠ **路径时效（2026-08-13 补注）**：本篇记录的是 2026-03 的工作流。文中
+> `~/Dev/scripts/scripts/document/*` 那批脚本已在 2026-05-18 的仓库重构中整合进
+> `~/Dev/tools/doctools/`（现行入口 `docx_cli.py`、`bid_gate.py`，或 skill `/docx`），
+> **逐个脚本名不再对应实体**（实测 `table_name_check.py` / `chart_insert.py` /
+> `review_summary.py` 等全盘已无，`bid_standardize.py` 只剩 `~/Dev/_archive/scripts-archive/`
+> 里的归档）。这些路径按**当时的事实**原样保留 —— 改写成一个看着存在的新路径，
+> 只会把死链伪装成活链。
+
 > **前置阅读**：`00-总览与主线地图.md`（了解三条主线的关系）、`Layer1-长期上下文.md` / `Layer2-工具能力.md` / `Layer3-工作流Skills.md`（六层架构）
 >
 > **关联文件**：`~/vps/usage-guide.md`（日常操作手册）、`~/vps/domain-cloudflare-guide.md`（域名配置详解）、`~/vps/openclaw-vps-plan.md`（部署计划）

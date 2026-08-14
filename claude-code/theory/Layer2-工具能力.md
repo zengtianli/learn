@@ -18,7 +18,7 @@
 
 ## 二、脚本作为工具的设计原则
 
-你在 `~/Dev/scripts/scripts/document/` 下积累了 30+ 个脚本。这些脚本通过 Bash 工具调用，本质上就是 CC 的"工具库"。
+你在 `~/Dev/tools/doctools/scripts/document/` 下积累了 30+ 个脚本。这些脚本通过 Bash 工具调用，本质上就是 CC 的"工具库"。
 
 ### 2.1 好工具的标准
 
@@ -333,4 +333,4 @@ python3 script.py --verbose  # → 完整检查报告
 - `Layer3-工作流Skills.md` — Layer 3 使用 Layer 2 的工具定义工作流
 - `实战-写作质量体系.md` 第四章 — 审阅工具链实战
 - `实战-钱塘江标书全流程.md` 第九章 — 标书工具链全景图
-- `~/Dev/scripts/scripts/document/` — 你的工具库（实物）
+- `~/Dev/tools/doctools/scripts/document/` — 你的工具库（实物）

@@ -146,7 +146,7 @@ image: "/images/blog/claude-code-long-context/hero.jpg"
 
 1. 技术栈：Streamlit + Python miniforge3，禁止 React/Next.js
 2. 协作模式：教练+助手，先描述方案等待批准再执行
-3. 路径规范：全局配置 ~/.claude/，脚本库 ~/Dev/scripts/，水利公司 ~/Work/zdwp/
+3. 路径规范：全局配置 ~/.claude/，脚本库 ~/Dev/tools/，水利公司 ~/Work/zdwp/
 4. 任务管理：超 5 分钟必须拆分，多 agents 并行
 5. 决策格式：必须写选项列表，标记推荐，说明理由
 6. 4 维度框架（D1 来龙去脉、D2 乙方立场与措辞、D3 报告结构、D4 预判评审）
